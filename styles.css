@@ -1,0 +1,99 @@
+/* ///////// Стилизация /////////  */
+/* #elem {
+	width: 100%;
+}
+
+.green{
+    background: green;
+}
+.red{
+    background: red;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    border: 1px solid green;
+}
+div.active {
+	background-color: red;
+}
+div:not(active) {
+	background-color: black;
+}
+
+input:focus{
+    outline: 1px solid black;
+}
+[data-type="success"] {
+	color: green;
+}
+[data-type="warning"] {
+	color: orange;
+}
+[data-type="error"] {
+	color: red;
+} */
+
+/* ///////// Метрики элементов\окна /////////  */
+#elem {
+	width: 300px;
+	height: 150px;
+	margin: 50px auto;
+	padding: 25px;
+	background: #CFF5BF;
+	border: 25px solid #F0D7A1;
+	overflow: auto;
+	text-align: justify;
+}
+/* .info{
+    width: 250px;
+    margin: 40px auto;
+    display: flex;
+    align-items: baseline;
+    flex-direction: column;
+} */
+
+.blue-div{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 500px;
+}
+.red-div{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+}
+
+/* ///////// Коллекции Map ///////// */
+/* ///////// Коллекции Set ///////// */
+/* ///////// Псевдомассивы /////////  */
+/* ///////// Символы /////////  */
+/* ///////// Итераторы /////////  */
+table {
+    gap: 8px;
+}
+td{
+    border: 1px solid black;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+}
+/* ///////// Формат JSON ///////// */
+/* ///////// Хранилище /////////  */
+/* ///////// Регулярные выражения ///////// */
+/* ///////// Исключительные ситуации ///////// */
+/* ///////// Асинхронность /////////  */
+/* ///////// Асинхронные коллбэки ///////// */
+/* ///////// Промисы /////////  */
+/* ///////// Библиотеки /////////  */
+/* ///////// Инструменты /////////  */
+/* ///////// Модули ES ///////// */
+/* ///////// Протокол HTTP ///////// */
+/* ///////// Тестовый сервер ///////// */
+/* ///////// Формы /////////  */
+/* ///////// AJAX /////////  */
+/* ///////// Работа с канвас */
+/* ///////// Оптимизация кода ///////// */
+/* ///////// Данные /////////  */
